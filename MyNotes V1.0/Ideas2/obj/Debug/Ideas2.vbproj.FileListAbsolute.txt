@@ -1,0 +1,13 @@
+C:\Users\Clint\source\repos\Ideas2\Ideas2\bin\Debug\Ideas2.exe.config
+C:\Users\Clint\source\repos\Ideas2\Ideas2\bin\Debug\Ideas2.exe
+C:\Users\Clint\source\repos\Ideas2\Ideas2\bin\Debug\Ideas2.pdb
+C:\Users\Clint\source\repos\Ideas2\Ideas2\bin\Debug\Ideas2.xml
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.vbprojAssemblyReference.cache
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.Form1.resources
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.DeleteFileForm.resources
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.Resources.resources
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.vbproj.GenerateResource.cache
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.vbproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.exe
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.xml
+C:\Users\Clint\source\repos\Ideas2\Ideas2\obj\Debug\Ideas2.pdb
