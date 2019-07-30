@@ -1,0 +1,11 @@
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\bin\Debug\Label Maker V1.1.exe.config
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\bin\Debug\Label Maker V1.1.exe
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\bin\Debug\Label Maker V1.1.pdb
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\bin\Debug\Label Maker V1.1.xml
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\obj\Debug\Label_Maker_V1._1.Form1.resources
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\obj\Debug\Label_Maker_V1._1.Resources.resources
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\obj\Debug\Label Maker V1.1.vbproj.GenerateResource.cache
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\obj\Debug\Label Maker V1.1.vbproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\obj\Debug\Label Maker V1.1.exe
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\obj\Debug\Label Maker V1.1.xml
+C:\Users\Clint\source\repos\Label Maker V1.1\Label Maker V1.1\obj\Debug\Label Maker V1.1.pdb
