@@ -1,0 +1,14 @@
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\bin\Debug\MyMusicPlayList.exe.config
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\bin\Debug\MyMusicPlayList.exe
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\bin\Debug\MyMusicPlayList.pdb
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\bin\Debug\MyMusicPlayList.xml
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\obj\Debug\MyMusicPlayList.vbprojAssemblyReference.cache
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\obj\Debug\MyMusicPlayList.Form1.resources
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\obj\Debug\MyMusicPlayList.Resources.resources
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\obj\Debug\MyMusicPlayList.vbproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\obj\Debug\MyMusicPlayList.exe
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\obj\Debug\MyMusicPlayList.xml
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\obj\Debug\MyMusicPlayList.pdb
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\bin\Debug\MyMusicPlaylist.resx
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\bin\Debug\MyMusicPlaylist.vb
+C:\Users\Clint\source\repos\MyMusicPlayList\MyMusicPlayList\bin\Debug\MyMusicPlaylist.Designer.vb
