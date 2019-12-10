@@ -1,0 +1,11 @@
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\bin\Debug\OLCDeathCountApp.exe.config
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\bin\Debug\OLCDeathCountApp.exe
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\bin\Debug\OLCDeathCountApp.pdb
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\bin\Debug\OLCDeathCountApp.xml
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\obj\Debug\OLCDeathCountApp.vbprojAssemblyReference.cache
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\obj\Debug\OLCDeathCountApp.MainApp.resources
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\obj\Debug\OLCDeathCountApp.Resources.resources
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\obj\Debug\OLCDeathCountApp.vbproj.GenerateResource.cache
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\obj\Debug\OLCDeathCountApp.exe
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\obj\Debug\OLCDeathCountApp.xml
+C:\Users\Clint\source\repos\OLCDeathCountApp\OLCDeathCountApp\obj\Debug\OLCDeathCountApp.pdb
