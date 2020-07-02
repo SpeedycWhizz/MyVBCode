@@ -1,0 +1,12 @@
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\bin\Release\MyPlaylistV1.5.exe.config
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\bin\Release\MyPlaylistV1.5.exe
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\bin\Release\MyPlaylistV1.5.pdb
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\bin\Release\MyPlaylistV1.5.xml
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\obj\Release\MyPlaylistV1.5.vbprojAssemblyReference.cache
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\obj\Release\MyPlaylistV1._5.MyPlaylistV15.resources
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\obj\Release\MyPlaylistV1._5.Resources.resources
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\obj\Release\MyPlaylistV1.5.vbproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\obj\Release\MyPlaylistV1.5.vbproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\obj\Release\MyPlaylistV1.5.exe
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\obj\Release\MyPlaylistV1.5.xml
+C:\Users\Clint\source\repos\MyPlaylistV1.5\MyPlaylistV1.5\obj\Release\MyPlaylistV1.5.pdb
