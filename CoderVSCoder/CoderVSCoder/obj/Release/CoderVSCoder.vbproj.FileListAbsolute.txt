@@ -1,0 +1,17 @@
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\bin\Release\CoderVSCoder.exe.config
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\bin\Release\CoderVSCoder.exe
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\bin\Release\CoderVSCoder.pdb
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\bin\Release\CoderVSCoder.xml
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.vbprojAssemblyReference.cache
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.Form1.resources
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.Frm2SysMessages.resources
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.FrmAddCodersNames.resources
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.FrmDeleteNames.resources
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.FrmDisplayMessages.resources
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.FrmEditCodersNames.resources
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.Resources.resources
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.vbproj.GenerateResource.cache
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.vbproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.exe
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.xml
+C:\Users\Clint\source\repos\CoderVSCoder\CoderVSCoder\obj\Release\CoderVSCoder.pdb
