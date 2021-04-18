@@ -1,0 +1,17 @@
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\bin\Debug\MusicPlaylistV1.6.exe.config
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\bin\Debug\MusicPlaylistV1.6.exe
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\bin\Debug\MusicPlaylistV1.6.pdb
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\bin\Debug\MusicPlaylistV1.6.xml
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1.6.vbprojAssemblyReference.cache
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1._6.Resources.resources
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1.6.vbproj.GenerateResource.cache
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1.6.vbproj.CoreCompileInputs.cache
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1.6.exe
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1.6.xml
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1.6.pdb
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1._6.FrnMusicPlaylistV16.resources
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\bin\Debug\Interop.WMPLib.dll
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\Interop.WMPLib.dll
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Clint\source\repos\MusicPlaylistV1.6\MusicPlaylistV1.6\obj\Debug\MusicPlaylistV1.6.vbproj.ResolveComReference.cache
